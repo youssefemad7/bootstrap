@@ -1,0 +1,168 @@
+.navbar
+{
+    background-color: #19283f;
+}
+
+.search i
+{
+    color: #33d1cc;
+    border-left: 1px solid #33d1cc;
+} 
+.search button
+{
+    color:#ffc400;
+    background-color: #ff3150;
+    border: #ff3150 1px solid;
+}
+
+.nav-item a 
+{
+    color: white;
+}
+.nav-item a:hover 
+{
+color: #33d1cc;
+}
+.nav-item a:focus
+{
+    color: #33d1cc;
+}
+.land
+{
+    background-color: #19283f;
+    height:90vh;
+
+}
+.land button
+{
+    color:#ffc400;
+    background-color: #ff3150;
+    border: #ff3150 1px solid;
+}
+.first .icons
+{
+    height: 200px;
+    color: #ff3150;
+    /* left: 42%;
+    transform: translateX(-50%); */
+}
+
+.icon1 
+{
+    font-size: 12rem;
+    color: #eff7fa;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.icon2
+{
+    color: #33d1cc;
+     left: 50%;
+    transform: translateX(-50%);
+}
+.first h6 
+{
+    color: #ffc400;
+}
+.first h6:hover
+{
+    cursor: pointer;
+    color: #ff3150;
+}
+.sec3
+{
+   background-color: #eff7fa;
+
+}
+.div4 h6    
+{
+    padding: 0.5rem 1rem;
+    
+}
+.div4 h6:hover
+{
+    cursor: pointer;
+    color: #ff3150;
+}
+.h6
+{
+    background-color: #ff3150;
+    color: #ffc400;
+    padding: 0.5rem 1rem;
+
+}
+.h6:hover
+{
+    cursor: pointer;
+    color: #ffc400;
+
+}
+.sec3 button , .sec5 button ,.sec8 button, .sec9 button
+
+{
+    color:#ffc400;
+    background-color: #ff3150;
+    border: #ff3150 1px solid;
+
+}
+.sec3 img
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.par
+{
+    max-width: 490px;
+}
+.sec6
+{
+    background-color: #eff7fa;
+}
+.sec6 h2
+{
+    color: #ffc400;
+    font-weight: 700;
+}
+.sec6 h4
+{
+    background-color: #33d1cc;
+   color: #eff7fa;
+   
+}
+.sec8
+{
+    background-color: #19283f;
+}
+.sec8 h2
+{
+    color: #eff7fa;
+}
+.sec10 
+{
+    background-color: #ffc400;
+}
+.sec10 button
+{
+background-color: #19283f;
+color: #ffc400;
+border:1px solid #19283f;
+}
+.sec10 button:hover
+{
+background-color: #19283f;
+color: #ffc400;
+border:1px solid #19283f;
+}
+.sec10 input
+{
+    border: none;
+    border-bottom: 1px solid white;
+}
+.sec10 input:focus
+{
+    outline: none;
+}
+.sec10 input::placeholder
+{
+    color: #eff7fa;
+}
